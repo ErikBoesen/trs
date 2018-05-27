@@ -15,7 +15,7 @@ Also, I'm bored on this train.
 
 * Copy to executable path:
 
-        cp trs.bash /usr/local/bin/trs
+        make install
 
     If you don't have access to the `/usr/local/bin` directory, you can put the executable binary anywhere else you like and add that directory to your `$PATH`.
 
