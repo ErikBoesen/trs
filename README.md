@@ -13,10 +13,6 @@ Also, I'm bored on this train.
 
         git clone https://github.com/ErikBoesen/trs && cd trs
 
-* If necessary, mark `trs.bash` as executable:
-
-        chmod +x trs.bash
-
 * Copy to executable path:
 
         cp trs.bash /usr/local/bin/trs
