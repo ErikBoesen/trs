@@ -4,7 +4,7 @@ CLI trash management for systems without one. Also fully compatible with systems
 ## Why?
 > Perhaps a better question is, why not?
 
-Because my home server's Linux setup lacks a trash and I feel uncomfortable straight-up `rm`ming things.
+Because my home server's Linux setup lacks a trash and I sometimes feel uncomfortable straight-up `rm`ming things.
 
 Also, I'm bored on this train.
 
