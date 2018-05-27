@@ -20,7 +20,7 @@ Also, I'm bored on this train.
     If you don't have access to the `/usr/local/bin` directory, you can put the executable binary anywhere else you like and add that directory to your `$PATH`.
 
 ## Usage
-To move files to trash:
+To move files/folders to trash:
 
     trs bad-stuff.txt blurryphoto.jpg uselessfolder
 
